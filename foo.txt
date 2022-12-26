@@ -1,0 +1,9 @@
+
+
+Create a POC for OCR(optical character recognition) 
+ 
+ 
+Description 
+Perform research on OCR(Optical Character Recognition) and how to extract information from 
+digitally created pdf 
+ 

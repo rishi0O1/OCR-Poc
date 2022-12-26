@@ -1,0 +1,85 @@
+
+
+ 
+Tadiran Batteries GmbH, Industriestrasse 22, 63654 Buedingen, Germany 
+Tel.: +49 6042 954 0 
+www.tadiranbatteries.de/eng/ 
+ 
+UN 38.3 Test Summary Report 
+ 
+☒ Same Type Part Numbers # (all): All configurations with harness and cable of this battery with  
+                                                             part number: 14 3 3770x xx 
+ 
+ 
+[g] List of Tests Conducted Result (Pass / Fail / N.A.) Test record reference 
+38.3.4.1 T.1: Altitude simulation Pass Summery page 2 
+38.3.4.2 T.2: Thermal test Pass 
+Summery page 2 
+38.3.4.3 T.3: Vibration Pass 
+Summery page 2 
+38.3.4.4 T.4: Shock Pass 
+Summery page 2 
+38.3.4.5 T.5: External short circuit Pass 
+Summery page 2 
+38.3.4.6 T.6: Impact/Crush (cell only test) Pass 
+Summery page 2 
+38.3.4.7 T.7: Overcharge (N.A for Li-metal only) N.A. N.A. 
+38.3.4.8 T.8: Forced discharge (cell only test) Pass Summery page 2 
+[h] Battery assembly:  ☐ Not Applicable.  ☒ UN38.3.3 (f)  ☐ UN38.3.3 (g) 
+[i] Test Reference: UN Manual of Tests and Criteria, Part III, sub-section 38.3.  Fifth revised edition 
+ 
+ 
+Lithium Cell or Battery Test Summary in Accordance with Section 2.9.4 UN Model Regulations and Sub-section 38.3 of the UN Manual of Tests and Criteria, Part III, subsection 38.3.5 
+[a] ☐ Cell  ☒ Battery  ☐ Product 
+☒ Tested Type Part #: S1P3/SL-2770 
+☐
+ Same Type Part #:    
+[b] Manufacturer 
+Tadiran Batteries GmbH 
+Industriestrasse 22 
+63654 Buedingen 
+Germany 
+T. +49 6042 954 0 
+info@tadiranbatteries.de
+ 
+www.tadiranbatteries.de 
+ 
+[d] Unique report ID: 15Q-951 
+[e] Report date: 2014.02.01 
+[c] Test Laboratory 
+Tadiran Batteries Ltd. 
+P.O. Box 1 
+Kiryat Ekron 
+Israel 70500 
+T. +972 8 9 44 560 
+sales@tadiran-batt.com
+ 
+www.tadiran.com 
+ 
+ 
+[f] (i) ☐ Li-ion  ☒ Li-metal.  
+ 
+(iv) Description: Primary (non-rechargeable) 3.7 V Lithium Thionyl Chloride (Li-SOCl2) battery, assembled from 
+3 (three) “C” sized SL-2770 cells. The S1P3/SL-2770 battery may come with optional suffixes consisting of a “/” 
+followed by one or more letters and a digit. These suffixes indicate different types of finishing to the battery e.g. 
+harness.  
+Tadiran manufactures all cells/batteries under a quality management system as required under this regulation. 
+ 
+(ii) Mass: 150 g  
+(iii) ☐ Watt hour rating or ☒ Lithium content: 7.5 g 
+(v) ☐ Cell  ☒ Battery  ☐ Product.   Model number/Part number: S1P3/SL-2770 
+ 
+[j] Signatory A.  Date: 2018.02.12 
+Name: Marc Henn 
+Title: Application Engineering Manager 
+Signature. 
+ 
+[j] Signatory B.  Date: 2018.02.12 
+Name: Olaf G. Lichtlein 
+Title: General Manager 
+Signature. 
+ 
+Important! The above signatory / signatories affirm that this document is a true and correct summary of the original individual tests and test 
+data. The original test data is confidential information available to competent State Authorities with valid identification and only upon their formal 
+request. Disclosure of the original test data to any other entity upon its request will be considered by Tadiran and, should Tadiran consider this 
+request is with merit, may be subject to the prior execution of a nondisclosure agreement. 
